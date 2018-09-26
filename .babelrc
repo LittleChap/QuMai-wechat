@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "es2015",
+    "stage-3"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-async-to-generator",
+    "syntax-async-functions",
+    "transform-runtime",
+    "transform-es2015-modules-commonjs"
+  ]
+}
